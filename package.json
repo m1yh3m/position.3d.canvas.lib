@@ -1,0 +1,26 @@
+{
+  "name": "@m1yh3m/position.3d.canvas.lib",
+  "version": "1.0.0",
+  "description": "Canvas lib - 3D position",
+  "main": "position.3d.js",
+  "dependencies": {
+    "@m1yh3m/position.2d.canvas.lib": "^1.0.0"
+  },
+  "devDependencies": {
+    "jasmine": "^3.5.0"
+  },
+  "scripts": {
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/m1yh3m/position.3d.canvas.lib.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/m1yh3m/position.3d.canvas.lib/issues"
+  },
+  "homepage": "https://github.com/m1yh3m/position.3d.canvas.lib#readme"
+}
